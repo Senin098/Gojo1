@@ -1,4 +1,6 @@
-class Persona {
+public class persona {
+
     private String nombre;
-    private String apellido;
+    
+    
 }
